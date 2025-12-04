@@ -1,7 +1,6 @@
-# PlayTUASGuessr
-Playable TUASGuessr Demo
-Available at: https://motto73.github.io/PlayTUASGuessr/
+# Where The Amk Am I?
+Playable Demo Available at: https://wheretheamkami.xyz/
 
-A GeoGuessr-like game located around the Kupittaa campus, mixed with some roguelike elements, just for fun.
+A GeoGuessr-inspired game located around the Kupittaa campus, mixed with some roguelike elements.
 
 Made for LCNC-class of 2025 at Turku University of Applied Sciences.
