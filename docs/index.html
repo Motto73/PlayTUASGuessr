@@ -221,6 +221,7 @@ const engine = new Engine(GODOT_CONFIG);
 		Promise.all([
 			engine.preloadFile("dlc.pck"),
 			engine.preloadFile("game_images.pck")
+			engine.preloadFile("edu_images.pck")
 		]).then(function () {
 			return engine.startGame({
 				'onProgress': function (current, total) {
