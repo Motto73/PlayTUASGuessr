@@ -220,7 +220,7 @@ const engine = new Engine(GODOT_CONFIG);
 		// *** Tässä pre-loadataan lisä-PCK:t ennen pelin käynnistystä ***
 		Promise.all([
 			engine.preloadFile("dlc.pck"),
-			engine.preloadFile("game_images.pck")
+			engine.preloadFile("game_images.pck"),
 			engine.preloadFile("edu_images.pck")
 		]).then(function () {
 			return engine.startGame({
